@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6384bc1fcd0492e8cd318fe4"
+  },
+  "name": "pcc",
+  "price": 20005,
+  "stock": "90",
+  "status": true
+},{
+  "_id": {
+    "$oid": "638862317e216992bfd4e00e"
+  },
+  "name": "HERU SUSENO",
+  "price": 8888,
+  "stock": 8,
+  "status": true
+}]
